@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TextEditorLab
+</name>
+</assembly>
+<members>
+<member name="T:TextEditorLab.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TextEditorLab.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TextEditorLab.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:TextEditorLab.Open.#ctor(System.Boolean)">
+ <summary>
+ This  function loads the openFile dialog and reads from the file
+ </summary>
+</member>
+<member name="M:TextEditorLab.Open.GetResult">
+ <summary>
+ This function gets the dialog result i.e the DialogResult.enum of the dialog
+ e.g DialogResult.OK, DialogResult.Cancel
+ </summary>
+ <returns>DialogResult.enum</returns>
+</member>
+<member name="M:TextEditorLab.Open.GetContent">
+ <summary>
+ This function returns the content of the file
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:TextEditorLab.Open.Load">
+ <summary>
+ Loads the form and defines the values of the variables in the class
+ </summary>
+</member>
+<member name="M:TextEditorLab.Open.Read">
+ <summary>
+ Reads the content of the file
+ </summary>
+</member>
+<member name="M:TextEditorLab.Open.Close">
+ <summary>
+ Close the streams and stream readers
+ </summary>
+</member>
+<member name="M:TextEditorLab.Save.#ctor(System.String,System.Boolean)">
+ <summary>
+ This  function loads the openFile dialog and reads from the file
+ </summary>
+</member>
+<member name="M:TextEditorLab.Save.Load(System.String)">
+ <summary>
+ Loads the form and defines the values of the variables in the class
+ </summary>
+</member>
+<member name="M:TextEditorLab.Save.Write(System.String,System.String)">
+ <summary>
+ Reads the content of the file
+ </summary>
+</member>
+<member name="M:TextEditorLab.Save.Close">
+ <summary>
+ Close the the streams and stream writers
+ </summary>
+</member>
+<member name="M:TextEditorLab.Save.GetResult">
+ <summary>
+ This function gets the dialog result i.e the DialogResult.enum of the dialog
+ e.g DialogResult.OK, DialogResult.Cancel
+ </summary>
+ <returns>DialogResult.enum</returns>
+</member>
+<member name="M:TextEditorLab.frmTextEditor.OpenToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Open the Dialog and display the contents
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditorLab.frmTextEditor.NewToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ This allows you to create a new document.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditorLab.frmTextEditor.SaveToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ This method saves the text document
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditorLab.frmTextEditor.SaveAsToolStripMenuItem_Click(System.Object,System.EventArgs)">
+ <summary>
+ Save the fule as a new name
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditorLab.frmTextEditor.CloseToolStripMenuItem_Click(System.Object,System.EventArgs,System.Boolean)">
+ <summary>
+ Stop displaying the current file
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:TextEditorLab.frmTextEditor.txtContent_TextChanged(System.Object,System.EventArgs)">
+ <summary>
+ Check if the text has been modified
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

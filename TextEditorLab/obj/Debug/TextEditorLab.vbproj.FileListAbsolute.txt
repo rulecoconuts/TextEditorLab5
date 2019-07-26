@@ -1,0 +1,12 @@
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\bin\Debug\TextEditorLab.exe.config
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\bin\Debug\TextEditorLab.exe
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\bin\Debug\TextEditorLab.pdb
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\bin\Debug\TextEditorLab.xml
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.vbprojAssemblyReference.cache
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.frmTextEditor.resources
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.Resources.resources
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.vbproj.GenerateResource.cache
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.vbproj.CoreCompileInputs.cache
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.exe
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.xml
+C:\Users\rulec\source\repos\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.pdb
